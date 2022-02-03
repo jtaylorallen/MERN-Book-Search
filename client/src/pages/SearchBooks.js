@@ -33,9 +33,7 @@ const SearchBooks = () => {
 
     try {
       const response = 
-      'https://www.googleapis.com/books/v1/volumes?q=$
-      // await searchGoogleBooks
-      (searchInput)';
+      'https://www.googleapis.com/books/v1/volumes?q=$(searchInput)';
 
       if (!response.ok) {
         throw new Error('something went wrong!');
