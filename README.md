@@ -22,10 +22,7 @@
 
 ## First Looks
 
-# ![]()
-# ![]()
-# ![]()
-# ![]()
+# ![Screenshot (29)](https://user-images.githubusercontent.com/85364399/152449795-b302c5ce-3329-44a7-899a-01a343279cbc.png)
 
 ## Wireframes
 * n/a
